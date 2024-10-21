@@ -4,7 +4,11 @@ This Raydium volume bot is designed to automate the distribution of SOL to multi
 
 
 
-![run-trading-sniper-pump-fun-and-jito-bundle-trading-sandwich-mev-volume (1)](https://github.com/user-attachments/assets/e3119f78-e308-4934-b666-56901de5a40e)
+
+
+https://github.com/user-attachments/assets/09389af0-1ee2-46b8-a113-5f479e1a262f
+
+
 
 
 
