@@ -22,7 +22,8 @@ https://github.com/user-attachments/assets/b62ae9c3-347a-447f-8618-94059fefafb4
 
 
 ## Features
-![sol-1](https://github.com/user-attachments/assets/4c70f9a9-60a5-4a2f-a819-f176d5c0aa53)
+![image](https://github.com/user-attachments/assets/6e5689c3-b7ea-4675-b3d0-e602b0d6164e)
+
 
 - **Automated SOL Distribution**: Distributes SOL to new wallets.**
 - **Endless Buy and Sell Swaps**: Performs simultaneous buy and sell transactions.**
@@ -33,7 +34,8 @@ https://github.com/user-attachments/assets/b62ae9c3-347a-447f-8618-94059fefafb4
 - **Logging**: Supports adjustable logging levels for better monitoring and debugging.**
 
 ## Environment Variables
-![vol-2](https://github.com/user-attachments/assets/bdf543df-7a04-4872-a421-42168d97d3cb)
+![image](https://github.com/user-attachments/assets/954f5ba3-e2b8-462f-8780-5d0446ec4a7f)
+
 
 - **PRIVATE_KEY=                 # Private key for the main wallet**
 - **RPC_ENDPOINT=                # RPC endpoint for Solana**
